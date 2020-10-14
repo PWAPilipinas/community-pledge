@@ -5,6 +5,8 @@ The people listed in this document pledges to support PWA Pilipinas in its initi
 Signed by:
 
 * Andresito de Guzman - andresitodeguzman (10/14/2020 3:00pm)
-* Reynier Tasico - reintasico (10/14/2020 3:29pm)
+* Reynier_Tasico - reintasico (10/14/2020 3:29pm)
+* John McLem Adan - johnadan (10/14/2020 9:10pm) 
+
 
 
