@@ -2,6 +2,7 @@
 Add your pledge to support PWA Pilipinas community efforts and initiatives.
 
 ## How to do your pledge
+0. If you're doing this for Hacktoberfest, please make sure you are registered to make your Pull Request count. If you haven't yet, visit the [Hacktoberfest site](https://hacktoberfest.digitalocean.com)
 1. Create a PWA Pilipinas Account through the [PWA Pilipinas App](https://app.pwapilipinas.org).
 2. Fork the repository
 3. In the `october2020.md` file, create a new line and add your display name, username and date when you added it. Follow this format `* <DISPLAY_NAME> - <USERNAME> (<DATE>)`
