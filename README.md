@@ -1,5 +1,5 @@
-# Community Pledge
-Add your pledge to support the community efforts and initiatives.
+# PWA Pilipinas Community Pledge
+Add your pledge to support PWA Pilipinas community efforts and initiatives.
 
 ## How to do your pledge
 1. Create a PWA Pilipinas Account through the [PWA Pilipinas App](https://app.pwapilipinas.org).
