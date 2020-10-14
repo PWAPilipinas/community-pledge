@@ -4,7 +4,7 @@ Add your pledge to support PWA Pilipinas community efforts and initiatives.
 ## How to do your pledge
 1. Create a PWA Pilipinas Account through the [PWA Pilipinas App](https://app.pwapilipinas.org).
 2. Fork the repository
-3. In the `October2020.md` file, create a new line and add your display name, username and date when you added it. Follow this format `* <DISPLAY_NAME> - <USERNAME> (<DATE>)`
+3. In the `october2020.md` file, create a new line and add your display name, username and date when you added it. Follow this format `* <DISPLAY_NAME> - <USERNAME> (<DATE>)`
 4. Commit your changes. Use this format `feat: add <USERNAME>` for the commit message.
 4. Create a Pull Request
 
