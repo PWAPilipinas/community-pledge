@@ -8,6 +8,6 @@ Signed by:
 * Reynier_Tasico - reintasico (10/14/2020 3:29pm)
 * John McLem Adan - johnadan (10/14/2020 9:10pm) 
 * Rane Gillian Villanueva - rgvillanueva28 (10/16/2020 3:48pm) 
-
+* Jes - jestonisalonga (10/17/2020 6:45pm)
 
 
